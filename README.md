@@ -1,0 +1,1 @@
+https://chart.vercel.app/
