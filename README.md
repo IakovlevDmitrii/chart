@@ -11,13 +11,19 @@ http://recharts.org/en-US/examples
 https://chart.vercel.app/
 
 Инструменты:
+
 React
+
 recharts
 
 prop-types
+
 babel
+
 eslint
-  airbnb
+
 lint-staged
+
 prettier
+
 husky
