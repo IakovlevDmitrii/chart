@@ -15,6 +15,7 @@ https://chart.vercel.app/
 React
 
 recharts
+https://recharts.org/en-US/
 
 prop-types
 
