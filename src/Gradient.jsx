@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import getData from './functions-helpers';
+import getData from './get-data';
 
 const Gradient = ({ data, lineName, color }) => {
    const { topLimit, lowerLimit } = getData(data, lineName);
