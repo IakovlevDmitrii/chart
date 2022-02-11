@@ -2,39 +2,41 @@
 
 В рамках программы изучения React
 
+---
+
 ### Цель:
 
-Познакомиться с бибилиотекой "recharts"  
-https://recharts.org/en-US/  
-Recharts — это библиотека на основе D3.js, позволяющая строить графики с использованием HTML, SVG и CSS.
+Познакомиться с бибилиотекой [recharts](https://recharts.org/en-US/)
+
+> _Recharts_ — это библиотека на основе D3.js, позволяющая строить графики с использованием HTML, SVG и CSS.
 
 ### Задание:
 
-Модифицировать этот пример:  
-http://recharts.org/en-US/examples  
-Отметить на графике другим цветом среднеквадратическое отклонение.
+- Модифицировать [этот пример](http://recharts.org/en-US/examples);
+- Отметить на графике другим цветом среднеквадратическое отклонение;
 
 ### Инструменты:
 
-HTML  
-CSS  
-JS  
-React  
-PropTypes  
-babel  
-eslint  
-lint-staged  
-prettier  
-husky
+> - HTML
+> - CSS
+> - JS
+> - React
+> - PropTypes
+>
+> #### Webpack
+>
+> > - babel
+> > - eslint
+> > - lint-staged
+> > - prettier
+> > - husky
 
-### Решение можно посмотреть здесь:
+### Решение можно посмотреть [здесь](https://chart.vercel.app/)
 
-https://chart.vercel.app/
+---
 
-###### Создан:
+_Создан_:  
+ Mar 15, 2021
 
-Mar 15, 2021
-
-###### Последние изменения:
-
-Feb 11, 2022
+_Последние изменения_:  
+ Feb 11, 2022
