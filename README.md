@@ -2,8 +2,8 @@
 В рамках программы изучения React
 
 ### Цель:
-Использовать библиотеку [recharts](https://recharts.org/en-US/)
-
+Использовать библиотеку <a href="https://recharts.org/en-US/" target="_blank">recharts</a>  
+Использовать библиотеку [recharts](https://recharts.org/en-US/){:target="_blank"}
 > _Recharts_ — это библиотека на основе D3.js, позволяющая строить графики с использованием HTML, SVG и CSS.
 
 ### Задание:
