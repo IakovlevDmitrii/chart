@@ -16,7 +16,7 @@
 > - JS
 > - React
 > - PropTypes
->> - Webpack
+>> #### Webpack
 >>  - Babel
 >>  - ESLint
 >>  - Lint-staged
