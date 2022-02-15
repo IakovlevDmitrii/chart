@@ -16,12 +16,12 @@
 > - JS
 > - React
 > - PropTypes
-> - Webpack
->  - Babel
->  - ESLint
->  - Lint-staged
->  - Prettier
->  - Husky
+>> - Webpack
+>>  - Babel
+>>  - ESLint
+>>  - Lint-staged
+>>  - Prettier
+>>  - Husky
 
 ### Решение можно посмотреть [здесь](https://chart.vercel.app/)
 
